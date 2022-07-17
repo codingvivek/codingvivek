@@ -36,7 +36,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codingvivek&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
-<img src="https://camo.githubusercontent.com/a575f5f00a8bcd492b9fcce7c2c1305139306392e4b2d96479fa6a02b4758646/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72796f2d6d6126636f6c756d6e3d362672616e6b3d5353532c53532c532c4141412c41412c412c422c43" data-canonical-src="https://github-profile-trophy.vercel.app/?username=ryo-ma&amp;column=6&amp;rank=SSS,SS,S,AAA,AA,A,B,C" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/a575f5f00a8bcd492b9fcce7c2c1305139306392e4b2d96479fa6a02b4758646/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72796f2d6d6126636f6c756d6e3d362672616e6b3d5353532c53532c532c4141412c41412c412c422c43" data-canonical-src="https://github-profile-trophy.vercel.app/?username=ryo-ma&amp;column=6&amp;rank=SS,SS,S,AAA,AA,A,B,C" style="max-width: 100%;">
 
 
 ### ✍️Random Dev Quote
