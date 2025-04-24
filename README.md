@@ -21,7 +21,7 @@
   💬 Ask me about for any help
 
   📫 How to reach me:  
-  Mail me at "viveksingh9280@gmail.com" or 
+  X me at "codingvivek" or 
   scroll to bottom of the page of "https://codingvivek.github.io/portfolio/" and find CONTACT ME
 
 ## 🌐Socials
